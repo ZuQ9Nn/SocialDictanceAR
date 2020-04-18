@@ -9,3 +9,6 @@ This is prototype for withAR Hackathon 20200418
 * AR Subsystems 2.1.2
 * ARKit XR Plugin 2.1.9
 * ARCore XP Plugin 2.1.8
+
+# Require iOS
+iOS 12
